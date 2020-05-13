@@ -36,3 +36,6 @@ Umyj naczynia!
 używanie w konstrukcjach zdania tagów
 
 Jaki typ zdania 
+
+
+[Dzień 19 – majowe wyzwanie | Agnieszka Drummer - język niemiecki](https://agnieszkadrummer.wordpress.com/2012/05/19/dzien-19-majowe-wyzwanie/)
