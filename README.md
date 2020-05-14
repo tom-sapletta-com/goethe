@@ -69,4 +69,5 @@ czas zdania nadrzednego, podrzednego
 W jakiej osobie, do kogo
 Czy ma uzywac okreslonych słów czy grup, czy  mix
 
-#
+# lasttermin
+https://gorzow.wyborcza.pl/gorzow/7,36844,23267809,to-tu-czyli-gdzie-latwo-znajdziesz-bo-gorzowska-firma-stworzyla.html
