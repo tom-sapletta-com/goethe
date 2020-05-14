@@ -39,3 +39,34 @@ Jaki typ zdania
 
 
 [Dzień 19 – majowe wyzwanie | Agnieszka Drummer - język niemiecki](https://agnieszkadrummer.wordpress.com/2012/05/19/dzien-19-majowe-wyzwanie/)
+
+
+## Modele
+
+na bazie analizy logicznej gramatyki zdań można stworzyć kilka wairantów aplikacji:
+
+### Tester Gramatyki
+Podaje wszystkie informacje o zdaniu i jego częściach
+
+Analiza skupia się na:
++ czasie:
++ częsciach zdania: nadrzędne, podrzędne
++ typach zdań: oznajmujące, pytające, 
++ wyrazach, rodzajnikach, formach
++ Zaimkach, przyimkach
+
+###  Quiz
+
+Najpierw trzeba zaznaczyć czego chcemy się uczyć
+Generator tworzy określoną ilość konstrukcji.
+Quiz polega na wyborze, która konstrukcja jest poprawna wedlug okreslonego wzoru.
+
+### Generator wzorów zdan
+
+polega na tworzeniu wedle wzoru:
+
+czas zdania nadrzednego, podrzednego
+W jakiej osobie, do kogo
+Czy ma uzywac okreslonych słów czy grup, czy  mix
+
+#
