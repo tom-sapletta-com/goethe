@@ -71,3 +71,4 @@ Czy ma uzywac okreslonych słów czy grup, czy  mix
 
 # lasttermin
 totu.app/web/
+totu.app/blog
